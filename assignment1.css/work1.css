@@ -235,3 +235,52 @@ font-size: 25px;
 .div-f2{
     padding-top: 130px 0 0 0;
 }
+
+/* Additional section is here */
+.add-sec{
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: space-around;
+    background-color: skyblue;
+    gap: 30px;
+    border-radius: 12px;
+
+}
+.div-add{
+    width: 400px;
+    margin: 20px;
+}
+.div-add >h1{
+    color: rgb(255, 192, 1);
+    padding-bottom: 10px;
+    font-size: 38px;
+}
+.div-add1{
+    
+}
+.div-add >p{
+    color: gray;
+    word-spacing: ;
+}
+.div-add >h2{
+    color: cadetblue;
+}
+.div-add1{
+    text-align: center;
+    width: 200px;
+}
+.add-img{
+    height: 70px;
+    width: 70px;
+    
+}
+.add-main{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+}
